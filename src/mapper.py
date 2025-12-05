@@ -15,7 +15,7 @@ for row in csv_reader:
         wind_dir = float(wind_dir)
         rain = float(rain)
         # Emit: city <tab> temp,humidity,dew, pressure, wind_speed, wind_dir, rain,1
-        print(f"{location_id}\t{temp},{humidity},{dew},{pressure},{wind_speed},{wind_dir},{rain},1")
+        print("{}\t{},{},{},{},{},{},{},1".format(location_id, temp, humidity, dew, pressure, wind_speed, wind_dir, rain,1))
 
     except:
         continue
