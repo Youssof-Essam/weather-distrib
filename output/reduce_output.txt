@@ -1,0 +1,3 @@
+Location:0	Avg Temp:8.81, Avg Humidity:76.92, Avg Dew:4.68, Avg Pressure:1010.73, Avg Windspeed:14.22, Avg Wind Direction:197.82, Avg Rain amount:0.06
+Location:1	Avg Temp:9.30, Avg Humidity:77.82, Avg Dew:5.37, Avg Pressure:1002.98, Avg Windspeed:6.42, Avg Wind Direction:187.56, Avg Rain amount:0.08
+Location:2	Avg Temp:9.33, Avg Humidity:78.08, Avg Dew:5.44, Avg Pressure:1012.23, Avg Windspeed:13.59, Avg Wind Direction:194.38, Avg Rain amount:0.10
