@@ -1,0 +1,8 @@
+# Ignore outputs and temporary files
+output/
+output_max_temp/
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
