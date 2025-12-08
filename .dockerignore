@@ -1,7 +1,11 @@
-# Ignore outputs and temporary files
+# Ignore outputs and temporary files generated during runtime
 output/
 output_max_temp/
+
+# Ignore version control and development files
+.git/
 .ipynb_checkpoints/
+Analysis.ipynb
 
 # Ignore system files
 .DS_Store
